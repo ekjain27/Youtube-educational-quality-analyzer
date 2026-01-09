@@ -83,6 +83,10 @@ The dataset contains information such as:
 - EdTech content evaluation
 - Data-driven content ranking systems
 
+
+## 📌 Key Insight
+Videos with moderate duration and positive comment sentiment often ranked higher than videos with very high views but low engagement quality.
+
 ---
 
 ## 👨‍💻 Author
